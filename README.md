@@ -4,4 +4,4 @@ Exploring and analyzing the Collatz conjecture through mathematical experiments,
 
 ## Author
 Fatma salama Abdul salam 
-From Eygept
+From Egypt 
